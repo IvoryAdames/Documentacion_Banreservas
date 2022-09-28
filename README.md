@@ -2,8 +2,8 @@
 Documentación del proyecto realizado en C# y SQL Server
 
 # Manual de instalación 
-Para poder llevar a cabo este proyecto instalé SQL Server 2019 Developer para Windows de 64 bts la cual es una herramienta gratuita que me permite trabajar con las bases de datos sin tener que estar en un entorno de producción.
-Luego instale Visual Studio 2022 Community de Microsoft para Windows de 64 bts, con todas sus librerías para poder trabajar en C#.
+Para poder llevar a cabo este proyecto instalé SQL Server 2019 Developer para Windows de 64 bits la cual es una herramienta gratuita que me permite trabajar con las bases de datos sin tener que estar en un entorno de producción.
+Luego instale Visual Studio 2022 Community de Microsoft para Windows de 64 bits, con todas sus librerías para poder trabajar en C#.
 
 Aquí se encuentran los link para realizar las descargas:
 * https://www.microsoft.com/es-es/sql-server/sql-server-downloads
@@ -24,19 +24,19 @@ En este proyecto se realiza la creación de una aplicación que se conecte con l
 * Eliminar dicha información si así lo desea el usuario.
 
 # Requisitos fundamentales
-* La aplicación le va a permitir al usuario entrar desde cualquier navegador, digace Windows, MacOs o Linux.
-* La aplicación le va a permitir ver la tabla desde la app.
-* La aplicación le va a permitir al usuario ingresar un id.
-* La aplicación le va a permitir al usuario colocar su nombre.
-* La aplicación le va a permitir al usuario poner su fecha de nacimiento.
+* Va a permitir al usuario entrar desde cualquier navegador, digace Windows, MacOs o Linux.
+* Le va a permitir ver la tabla desde la app.
+* Le va a permitir al usuario ingresar un id.
+* Le va a permitir al usuario colocar su nombre.
+* Le va a permitir al usuario poner su fecha de nacimiento.
 * La aplicación permite que todos los que descarguen el programa pueden usarlo sin ningun problema.
 
 # Requisitos no fundamentales
-* El programa debe permitir que todos los datos se guarden cuando el usuario ingrese uno.
-* El programa debe de buscar en las columnas los nombres solicitados por el usuario.
-* El programa debe funcionar sin ningún problema cuando el usuario quiera actualizar algún dato.
-* El programa debe de eliminar la columna completamente de la base de datos si el usuario lo solicita.
-* El programa debe de tener los botones de minimizar y cerrar funcionando correctamente.
+* Este debe permitir que todos los datos se guarden cuando el usuario ingrese uno.
+* El programa debe buscar en las columnas los nombres solicitados por el usuario.
+* Debe funcionar sin ningún problema cuando el usuario quiera actualizar algún dato.
+* Debe eliminar la columna completamente de la base de datos si el usuario lo solicita.
+* Debe tener los botones de minimizar y cerrar funcionando correctamente.
 
 # Estructura DB
                  Persona  
